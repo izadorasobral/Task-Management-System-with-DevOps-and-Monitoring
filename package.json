@@ -1,0 +1,27 @@
+{
+  "name": "task-management-system-with-devops-and-monitoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izadorasobral/Task-Management-System-with-DevOps-and-Monitoring.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izadorasobral/Task-Management-System-with-DevOps-and-Monitoring/issues"
+  },
+  "homepage": "https://github.com/izadorasobral/Task-Management-System-with-DevOps-and-Monitoring#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0"
+  }
+}
