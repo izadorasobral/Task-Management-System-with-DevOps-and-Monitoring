@@ -144,6 +144,7 @@ dist
 <<<<<<< HEAD
 .pytest_cache/
 .git
+node_modules
 
 =======
 >>>>>>> 219be471f3877456075f0426714630602e9b156c
