@@ -145,6 +145,23 @@ dist
 .pytest_cache/
 .git
 node_modules
+# Node.js
+node_modules/
+npm-debug.log
+
+# Docker
+*.dockerfile
+*.dockerignore
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Outros arquivos temporários
+.env
 
 =======
 >>>>>>> 219be471f3877456075f0426714630602e9b156c
